@@ -1,0 +1,7 @@
+# ninja log v5
+1	3932	0	CMakeFiles/flutter_opencv.dir/F_/Project/Flutter/flutter_edit_img_sdk/ios/Classes/native_add.cpp.o	d87fe6a18104d160
+3934	7515	0	F:/Project/Flutter/flutter_edit_img_sdk/example/build/flutter_edit_img_sdk/intermediates/cmake/debug/obj/arm64-v8a/libflutter_opencv.so	1d11054588a59f92
+4	4956	0	CMakeFiles/smart_cropper.dir/src/main/cpp/android_utils.cpp.o	5065d8e980480669
+1	5110	0	CMakeFiles/smart_cropper.dir/src/main/cpp/smart_cropper.cpp.o	af55793e3f0bc078
+7	5111	0	CMakeFiles/smart_cropper.dir/src/main/cpp/Scanner.cpp.o	482f3f6f6d9241dc
+5111	6612	0	F:/Project/Flutter/flutter_edit_img_sdk/example/build/flutter_edit_img_sdk/intermediates/cmake/debug/obj/arm64-v8a/libsmart_cropper.so	963cf296b7ed569b

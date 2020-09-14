@@ -1,0 +1,276 @@
+
+{
+	"buildFiles" : [ "F:/Project/Flutter/flutter_edit_img_sdk/android/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"D:\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"IlmImf-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "IlmImf",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/libIlmImf.a",
+			"toolchain" : "94029825"
+		},
+		"flutter_opencv-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "flutter_opencv",
+			"buildCommand" : "D:\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\armeabi-v7a --target flutter_opencv",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dflutter_opencv_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -isystem F:\\Project_Demo\\OpenCV\\OpenCV-android-sdk\\sdk\\native\\jni\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/Project/Flutter/flutter_edit_img_sdk/ios/Classes/native_add.cpp",
+					"workingDirectory" : "F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "F:/Project/Flutter/flutter_edit_img_sdk/example/build/flutter_edit_img_sdk/intermediates/cmake/debug/obj/armeabi-v7a/libflutter_opencv.so",
+			"toolchain" : "94029825"
+		},
+		"libcpufeatures-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libcpufeatures",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/libcpufeatures.a",
+			"toolchain" : "94029825"
+		},
+		"libjasper-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libjasper",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/liblibjasper.a",
+			"toolchain" : "94029825"
+		},
+		"libjpeg-turbo-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libjpeg-turbo",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/liblibjpeg-turbo.a",
+			"toolchain" : "94029825"
+		},
+		"libpng-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libpng",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/liblibpng.a",
+			"toolchain" : "94029825"
+		},
+		"libprotobuf-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libprotobuf",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/liblibprotobuf.a",
+			"toolchain" : "94029825"
+		},
+		"libtiff-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libtiff",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/liblibtiff.a",
+			"toolchain" : "94029825"
+		},
+		"libwebp-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libwebp",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/liblibwebp.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_calib3d-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_calib3d",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_calib3d.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_core-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_core",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_core.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_dnn-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_dnn",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_dnn.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_features2d-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_features2d",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_features2d.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_flann-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_flann",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_flann.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_highgui-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_highgui",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_highgui.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_imgcodecs-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_imgcodecs.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_imgproc-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_imgproc",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_imgproc.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_java-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_java",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/libs/armeabi-v7a/libopencv_java4.so",
+			"toolchain" : "94029825"
+		},
+		"opencv_ml-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_ml",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_ml.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_objdetect-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_objdetect",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_objdetect.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_photo-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_photo",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_photo.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_stitching-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_stitching",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_stitching.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_video-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_video",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_video.a",
+			"toolchain" : "94029825"
+		},
+		"opencv_videoio-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "opencv_videoio",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/staticlibs/armeabi-v7a/libopencv_videoio.a",
+			"toolchain" : "94029825"
+		},
+		"quirc-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "quirc",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/libquirc.a",
+			"toolchain" : "94029825"
+		},
+		"smart_cropper-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "smart_cropper",
+			"buildCommand" : "D:\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\armeabi-v7a --target smart_cropper",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dsmart_cropper_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -isystem F:\\Project_Demo\\OpenCV\\OpenCV-android-sdk\\sdk\\native\\jni\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/Project/Flutter/flutter_edit_img_sdk/android/src/main/cpp/android_utils.cpp",
+					"workingDirectory" : "F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dsmart_cropper_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -isystem F:\\Project_Demo\\OpenCV\\OpenCV-android-sdk\\sdk\\native\\jni\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/Project/Flutter/flutter_edit_img_sdk/android/src/main/cpp/Scanner.cpp",
+					"workingDirectory" : "F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dsmart_cropper_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -isystem F:\\Project_Demo\\OpenCV\\OpenCV-android-sdk\\sdk\\native\\jni\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/Project/Flutter/flutter_edit_img_sdk/android/src/main/cpp/smart_cropper.cpp",
+					"workingDirectory" : "F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "F:/Project/Flutter/flutter_edit_img_sdk/example/build/flutter_edit_img_sdk/intermediates/cmake/debug/obj/armeabi-v7a/libsmart_cropper.so",
+			"toolchain" : "94029825"
+		},
+		"tbb-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "tbb",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/libtbb.a",
+			"toolchain" : "94029825"
+		},
+		"tegra_hal-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "tegra_hal",
+			"buildType" : "debug",
+			"output" : "F:/Project_Demo/OpenCV/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi-v7a/libtegra_hal.a",
+			"toolchain" : "94029825"
+		}
+	},
+	"toolchains" : 
+	{
+		"94029825" : 
+		{
+			"cCompilerExecutable" : "D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

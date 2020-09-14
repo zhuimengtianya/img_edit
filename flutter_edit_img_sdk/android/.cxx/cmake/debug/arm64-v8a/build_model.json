@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\example\\android",
+      "sdkFolder": "D:\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\example\\build\\flutter_edit_img_sdk\\intermediates",
+      "gradleModulePathName": ":flutter_edit_img_sdk",
+      "moduleRootFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android",
+      "makeFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\example\\android\\.cxx",
+      "cxxFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx",
+      "ndkFolder": "D:\\Sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-frtti -fexceptions -std\u003dc++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\example\\build\\flutter_edit_img_sdk\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\example\\build\\flutter_edit_img_sdk\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\example\\build\\flutter_edit_img_sdk\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "F:\\Project\\Flutter\\flutter_edit_img_sdk\\android\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

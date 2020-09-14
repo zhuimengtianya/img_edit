@@ -1,0 +1,4 @@
+F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/smart_cropper.dir
+F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/flutter_opencv.dir
+F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Project/Flutter/flutter_edit_img_sdk/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

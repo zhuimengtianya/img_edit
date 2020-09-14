@@ -1,0 +1,8 @@
+Executable : D:\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+F:\Project\Flutter\flutter_edit_img_sdk\android\.cxx\cmake\debug\armeabi-v7a
+--target
+smart_cropper
+jvmArgs : 
+
